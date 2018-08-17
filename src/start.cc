@@ -1,7 +1,6 @@
 ///
 /// @file    start.cc
 /// @author  
-/// @date    2018-07-18 16:31:41
 ///
 
 #include "configuration.h"
